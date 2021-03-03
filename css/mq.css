@@ -1,0 +1,138 @@
+@media screen and (min-width:481px) {
+.fv_m{display: none;}
+.fv{display: block;}
+
+.award_m{display: none;}
+.award{display: block;}
+
+.magazine_m{display: none;}
+.magazine{display: block;}
+
+.ig_m{display: none;}
+.ig{display: block;}
+
+.cv_m{display: none;}
+.cv{display: block;}
+
+.nayami_m{display: none;}
+.nayami{display: block;}
+
+.cause_m{display: none;}
+.cause{display: block;}
+
+.down_m{display: none;}
+.down{display: block;}
+
+.correction_m{display: none;}
+.correction{display: block;}
+
+.ideal_m{display: none;}
+.ideal{display: block;}
+
+.recommend_m{display: none;}
+.recommend{display: block;}
+
+.approach_m{display: none;}
+.approach{display: block;}
+
+.envelop_m{display: none;}
+.envelop{display: block;}
+
+.allright_m{display: none;}
+.allright{display: block;}
+
+.color_m{display: none;}
+.color{display: block;}
+
+.qa_m{display: none;}
+.qa{display: block;}
+
+.size_m{display: none;}
+.size{display: block;}
+
+.voice_m{display: none;}
+.voice{display: block;}
+
+.faq_m{display: none;}
+.faq{display: block;}
+
+.up_m{display: none;}
+.up{display: block;}
+
+.sns_m{display: none;}
+.sns{display: block;}
+
+}
+
+
+@media screen and (max-width: 480px) {
+img{width: 100%;}
+html{
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 53px;
+}
+.sns_m{display: block;}
+.sns{display: none;}
+
+.up_m{display: block;}
+.up{display: none;}
+
+.fv_m{display: block;}
+.fv{display: none;}
+
+.award_m{display: block;}
+.award{display: none;}
+
+.magazine_m{display: block;}
+.magazine{display: none;}
+
+.ig_m{display: block;}
+.ig{display: none;}
+
+.cv_m{display: block;}
+.cv{display: none;}
+
+.nayami_m{display: block;}
+.nayami{display: none;}
+
+.cause_m{display: block;}
+.cause{display: none;}
+
+.down_m{display: block;}
+.down{display: none;}
+
+.correction_m{display: block;}
+.correction{display: none;}
+
+.ideal_m{display: block;}
+.ideal{display: none;}
+
+.recommend_m{display: block;}
+.recommend{display: none;}
+
+.approach_m{display: block;}
+.approach{display: none;}
+
+.envelop_m{display: block;}
+.envelop{display: none;}
+
+.allright_m{display: block;}
+.allright{display: none;}
+
+.color_m{display: block;}
+.color{display: none;}
+
+.qa_m{display: block;}
+.qa{display: none;}
+
+.size_m{display: block;}
+.size{display: none;}
+
+.voice_m{display: block;}
+.voice{display: none;}
+
+.faq_m{display: block;}
+.faq{display: none;}
+}
+

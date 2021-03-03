@@ -1,0 +1,124 @@
+html,body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        border: none;
+    }
+.main {
+    width: 100%;
+    margin: 0 auto;
+}
+.PC img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.SP img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.PC .offerbox{
+    position: relative;
+}
+
+.PC .offerbox .offerbtn{
+    position: absolute;
+    width: 20%;
+    display: block;
+    bottom: 10%;
+    right: 40%;
+}
+
+.SP .offerbox_m{
+    position: relative;
+}
+
+.SP .offerbox_m .offerbtn_m_1{
+    position: absolute;
+    width: 63%;
+    display: block;
+    right: 18%;
+    top: 46.5%;
+}
+
+.SP .offerbox_m .offerbtn_m_2{
+    position: absolute;
+    width: 63%;
+    display: block;
+    right: 18%;
+    bottom: 2.5%;
+}
+
+.offerbtn:hover{
+    opacity: 0.8; 
+}
+
+@media screen and (max-width: 768px){
+    .SP .offerbtn{
+        margin: 0% auto 5% auto;
+        width: 58%;
+    }
+}
+
+.sns_btn {
+    text-align: center;
+}
+.sns_btn ul li{
+    display: inline-block;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+.buybtn{
+    width: 174px;
+    position: fixed;
+    right: 0;
+    bottom: 20px;
+    z-index: 99;
+}
+.buybtn img{
+    width: 100%; 
+    height: auto;
+}
+
+@media screen and (max-width: 768px){
+    .buybtn {
+        width: 28%;
+        max-width: 170px;
+    }
+}
+
+.modal_img_style{
+    max-width: 100%;
+    height:auto;
+}
+@media screen and (max-width: 768px){
+    .modal_img_style{
+        max-width: 70%;
+    }
+}
+@media screen and (max-width: 768px){
+    .media-body{
+        height: 21vh;
+        overflow:auto;
+    }
+    .modal{
+        top:60px;
+    }
+}
+
+.SP{
+    display: none;
+}
+@media screen and (max-width: 768px){
+.PC{
+    display: none;
+}
+.SP{
+    display: block;
+}
+}
+
+

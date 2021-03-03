@@ -1,0 +1,51 @@
+.buybtn {
+    width: 174px;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    z-index: 100;
+}
+
+@media screen and (max-width: 768px) {
+    .buybtn {
+        width: 28%;
+    }
+}
+
+.buybtn img {
+    width: 100%;
+}
+
+img.bra_color {
+    width: 60%;
+    margin: 0 20%;
+}
+
+img.buynow {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.lefttext {
+    color: #dc427e;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 13% 20% 0 20%;
+    border-bottom: 15px solid yellow;
+    line-height: 0px;
+}
+
+.number {
+    font-size: 2.5rem;
+}
+
+@media screen and (max-width: 768px) {
+    .lefttext {
+        font-size: 1rem;
+        margin: 13% 10% 0 10%;
+        border-bottom: 13px solid yellow;
+    }
+    .number {
+        font-size: 1.5rem;
+    }
+}
