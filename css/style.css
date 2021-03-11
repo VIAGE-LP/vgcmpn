@@ -82,11 +82,27 @@ html,body {
     width: 100%; 
     height: auto;
 }
+#alert{
+    display: none;
+    position: fixed;
+    right: 0;
+    bottom: 203px;
+    z-index: 99;
+}
 
 @media screen and (max-width: 768px){
     .buybtn {
         width: 28%;
         max-width: 170px;
+    }
+
+    #alert{
+        display: none;
+        width: 174px;
+        position: fixed;
+        right: 0;
+        bottom:19%;
+        z-index: 99;
     }
 }
 
