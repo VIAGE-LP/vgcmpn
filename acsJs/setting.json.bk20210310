@@ -1,0 +1,50 @@
+{
+  "actionUrl": "https://asp.acs-tpkg.com/ld",
+  "actionHostName": "https://asp.acs-tpkg.com",
+  "userId": "nextage_lp2",
+  "id": "2019030001",
+  "convertType": "TWD",
+  "language": "tc",
+  "thankyouPageUrl": null,
+  "inheritCommonSetting": null,
+  "receivingMethod": {
+    "0": {
+      "2": true,
+      "1": true,
+      "9": true,
+      "8": false
+    },
+    "1": {
+      "5": false,
+      "1": true,
+      "9": true,
+      "8": false
+    }
+  },
+  "location": "https://viagebeautybra.com",
+  "defaultShippingDate": null,
+  "couponIsEnable": true,
+  "questionIsEnable": false,
+  "questionTitle": null,
+  "questionIsRequired": true,
+  "questionValue": null,
+  "agreementIsEnable": false,
+  "agreementTitle": "我已了解並同意退貨規則",
+  "agreementOptionTitle": "依消保法規定，內衣褲產品不適用消費者保護法第19條，不享有7天鑑賞期，我了解並同意",
+  "policy": "policy",
+  "prSequence": null,
+  "productTopDescription": null,
+  "productBottomDescription": null,
+  "addressTopDescription": null,
+  "addressBottomDescription": null,
+  "receivingTopDescription": null,
+  "receivingBottomDescription": null,
+  "paymentTopDescription": null,
+  "paymentBottomDescription": null,
+  "shippingDateTopDescription": null,
+  "shippingDateBottomDescription": null,
+  "titleTopOtherMemo": null,
+  "topOtherMemo": "",
+  "titleBottomOtherMemo": null,
+  "bottomOtherMemo": null
+}
