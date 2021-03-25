@@ -19,6 +19,14 @@ $(document).ready(function () {
         },900);
     });
 
+    // 點我了解方案價格
+    $('a[href="#offer"]').click(function (e) { 
+        e.preventDefault();
+        $('html , body').animate({
+            scrollTop: $('#offer').offset().top,
+        },900);
+    });
+
     //聊天機器人
     $(window).scroll(function () {
         var scrollPos = $(window).scrollTop();

@@ -25,10 +25,10 @@ html,body {
 
 .PC .offerbox .offerbtn{
     position: absolute;
-    width: 20%;
+    width: 26%;
     display: block;
     bottom: 8%;
-    right: 40%;
+    right: 38%;
 }
 
 .SP .offerbox_m{
@@ -37,18 +37,18 @@ html,body {
 
 .SP .offerbox_m .offerbtn_m_1{
     position: absolute;
-    width: 63%;
+    width: 70%;
     display: block;
-    right: 18%;
+    right: 15%;
     top: 40.5%;
 }
 
 .SP .offerbox_m .offerbtn_m_2{
     position: absolute;
-    width: 63%;
+    width: 70%;
     display: block;
-    right: 18%;
-    bottom: 1%;
+    right: 15%;
+    bottom: 2%;
 }
 
 .offerbtn:hover{
